@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadayet Akondo</h1>
+<h1 align="center">Hi 👋, I'm Hadayet1122</h1>
 <h3 align="center">Learning Machine Learning</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
